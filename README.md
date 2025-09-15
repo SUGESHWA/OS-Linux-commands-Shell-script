@@ -4,7 +4,7 @@ Operating systems Lab exercise
 Linux commands-Shell scripting
 
 # Name   :Sugeshwa S
-# Reg no : 212224230074
+# Reg no : 212224230277
 
 # AIM:
 To practice Linux Commands and Shell Scripting
